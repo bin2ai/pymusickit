@@ -13,7 +13,7 @@ pip install pymusickit
 ## Usage
 
 ```python
-from pymusickit.keyfinder import KeyFinder
+from pymusickit.key_finder import KeyFinder
 
 audio_path = 'sweet-home-alabama.mp3'
 song = KeyFinder(audio_path)

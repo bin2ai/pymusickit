@@ -18,7 +18,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'keyfinder=pymusickit.keyfinder:main',
+            'key_finder=pymusickit.key_finder:main',
         ],
     },
     description='A Python package for music analysis.  Keyfinder Forked from "https://github.com/jackmcarthur/musical-key-finder"',
